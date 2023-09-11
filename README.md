@@ -11,6 +11,8 @@ Welcome to my Netflix Dashboard created using Tableau Public! This interactive d
 - **Movies Based on Age Certifications:** Explore movies categorized by age certifications (e.g., G, PG, PG-13, R). See how Netflix caters to different audience age groups.
 
   
+![Screenshot 2023-09-11 235806](https://github.com/sriramm04/Netflix_Dashboard_using_Tableau/assets/129077845/97cf7120-e5cd-4613-80f7-f379627435b3)
+
 
 ## Access the Dashboard
 
